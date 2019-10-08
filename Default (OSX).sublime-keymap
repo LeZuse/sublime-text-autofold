@@ -1,3 +1,0 @@
-[
-    { "keys": ["ctrl+k", "i"], "command": "toggle_imports" }
-]

@@ -1,5 +1,12 @@
-Sublime Text 2 Fold Imports
-===========================
+Sublime Text 2 Folding
+==========================
+
+Fork
+-----------
+This is a fork of https://github.com/davidyorr/sublime-text-fold-imports
+The main focus of my fork is to optimize it to my workflow.
+
+
 
 Sublime Text 2 plugin that folds import statements.
 
